@@ -3,3 +3,8 @@
 Al inicializar un repositorio se crea la carpeta .git que está oculta, esta carpeta contiene todos los metadatos que relacionan la información y los archivos correspondientes.
 Es necesario hacerlo para iniciar el versionamiento, de lo contrario seria una carpeta común y corriente.
 
+- ¿Como es diferente el “staging area” de una carpeta de trabajo y de un repositorio? ¿Cuál es el valor que esta ofrece?
+
+El staging area es un espacio virtual en donde se van a almacenar temporalmente todos los cambios que se han enviado por medio del git add, para que posteriormente al hacer commit se suban los cambios que se encuentran en esa área.Es diferente a una carpeta sencilla porque realmente es un área temporal para ir acumulando cambios requeridos por el proyecto, una vez hecho el commit el espacio queda vació.
+
+- 
