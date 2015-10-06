@@ -1,0 +1,5 @@
+- ¿Qué pasa cuando inicializas un repositorio?, ¿Por qué es necesario hacerlo?
+
+Al inicializar un repositorio se crea la carpeta .git que está oculta, esta carpeta contiene todos los metadatos que relacionan la información y los archivos correspondientes.
+Es necesario hacerlo para iniciar el versionamiento, de lo contrario seria una carpeta común y corriente.
+

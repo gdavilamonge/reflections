@@ -1,0 +1,30 @@
+- ¿Cómo es que el ver dos versiones de un mismo archivo te ayuda a visualizar un error escrito?
+
+Porque se puede comparar línea por línea para identificar el error.
+
+- ¿Cómo el tener acceso al historial completo  de un archivo te hace más eficiente como programador a largo tiempo?
+
+Porque de esa forma se puede visualizar el avance en el tiempo, así como retroceder en caso de ser necesario ya sea en un proyecto completo o en una parte del mismo.
+
+- ¿Cuáles crees que sean los pro y los contras de elegrir cuando hacer un commit de forma manual (como lo haces con git), contra que los cambios se hagan de forma automática (como google docs lo hace)?
+
+Una ventaja de hacer los commits manuales es que se ejecutan cuando ya se ha depurado el código y se han provado que funciona correctamente, una desventaja de hacerlo automáticamente es que se pueden enviar cambios que no se han revisado o que están incompletos, esto puede ocasionar multiples errores.
+
+- ¿Por qué crees que algunos sistemas de control de versiones permiten guardar los cambios de multiples archivos en un commit, mientras otros como Google Docs manejan cada archivo de forma separada?
+
+Porque cuando se realiza un cambio en la programación puede ser que se vean involucrados varios archivos, desde un html, un css, un js, etc, y es necesario que se resguarden todos los archivos involucrados, ya que puede generarse un error por la ausencia o mal actualización de todos los archivos.
+
+- ¿Cuál es el id que no tiene error? es el ac83b72030d79cf35944125793efcbdf57d93635
+
+- ¿De qué manera el uso de un sistema de control de versiones puede date la confianza de hacer cambios en tu proyecto que podrían dañar o alterar su funcionamiento?
+
+En que como se tiene la forma para retroceder, descubrir el error o determinar la procedencia del mismo, entonces se puede determinar con agilidad las correcciones que se deben realizar para restaurar el proyecto según la versión adecuada.
+
+-¿Porque guardar versiones viejas de un archivo puede ser útil, y como los sistemas de control de versiones puede ayudar con esta tarea?
+
+Es importante porque permite visualizar cambios que se hayan realizado en el proyecto inicialmente y que se requieran analizar por alguna razón en particular.
+
+-¿Como Git te ayuda a ver archivos y a checar el historial de ellos?
+
+Porque permite resguardar todo el historia, id del cambio, usuario y detalle del cambio realizado en el proyecto, de forma sencilla y así poner analizar los cambios realizados.
+
