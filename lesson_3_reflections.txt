@@ -2,3 +2,6 @@
 
 Porque el pull permite descargar lo que se encuentra en el repositorio de forma que estén actualizadas todas las versiones del proyecto.
 
+- Describe las diferencias entre forks, clones y branches y di para que utilizas cada uno. 
+
+El fork permite hacer una copia de un repositorio en la cuenta web de github, clone permite hacer una copia a nivel local de un repositorio y branches son las ramas del proyecto.
